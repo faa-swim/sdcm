@@ -1,2 +1,2 @@
 # sdcm
-Issues tracking for Service Description Conceptural Model
+Issues tracking for Service Description Conceptual Model
